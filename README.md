@@ -57,9 +57,9 @@ These prompts are designed to provoke thought and creativity, allowing teams to 
 * [Github page](https://github.com/manasvishal/hackathon_umassd)
 * Organizers :
   * [Manas Vishal](https://www.linkedin.com/in/manasvishal/)
-  * [Bhaskar Verma](https://www.linkedin.com/in/bhaskar-verma-81398625b/)
   * [Vijaya Chalivendra](https://www.linkedin.com/in/vijaya-chalivendra-4b0158147/)
   * [Scott Field](http://www.math.umassd.edu/~sfield/)
+  * [Bhaskar Verma](https://www.linkedin.com/in/bhaskar-verma-81398625b/)
 
 # Milestones
 * Download the dataset and process it mentioning any problematic entries.
